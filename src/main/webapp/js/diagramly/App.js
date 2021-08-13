@@ -1899,7 +1899,7 @@ App.prototype.isDriveDomain = function()
 		window.location.hostname == 'www.draw.io' ||
 		window.location.hostname == 'drive.draw.io' ||
 		window.location.hostname == 'app.diagrams.net' ||
-		window.location.hostname == 'jgraph.github.io');
+		window.location.hostname == 'jongwony.github.io');
 };
 
 /**

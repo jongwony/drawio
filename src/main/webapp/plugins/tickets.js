@@ -22,7 +22,7 @@
  * bug, techTask, epic, improvement, fault, change, access, purchase or itHelp)
  * 
  * The current configuration is stored in localStorage under ".tickets-config". Use
- * https://jgraph.github.io/drawio-tools/tools/convert.html for URI encoding.
+ * https://jongwony.github.io/drawio-tools/tools/convert.html for URI encoding.
  */
 Draw.loadPlugin(function(ui)
 {

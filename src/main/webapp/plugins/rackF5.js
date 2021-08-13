@@ -1551,7 +1551,7 @@ Draw.loadPlugin(function(ui)
 {
 	var w = 100;
 	var h = 100;
-	var stencilPath = "path=https://jgraph.github.io/drawio-libs/libs/f5/;";
+	var stencilPath = "path=https://jongwony.github.io/drawio-libs/libs/f5/;";
 	var s = stencilPath + 'strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;fillColor=#ffffff;outlineConnect=0;shape=mxgraph.rackF5Shapes.';
 	
 	var gn = 'mxgraph.rackF5Shapes';

@@ -1,7 +1,7 @@
 (function()
 {
 	/**
-	 * Download from following URL as TSV and convert using https://jgraph.github.io/drawio-tools/tools/convert.html:
+	 * Download from following URL as TSV and convert using https://jongwony.github.io/drawio-tools/tools/convert.html:
 	 * https://docs.google.com/spreadsheets/d/1sAL1zn-UtmJtKPH4cLApGjRX-TRSJa5dYdfZ9NKYfRs
 	 * Maps package and stencil names to additional tags.
 	 */
